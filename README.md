@@ -1,2 +1,2 @@
 # gitignore
-Global gitignore
+Global gitignore template
